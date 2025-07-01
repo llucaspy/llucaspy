@@ -1,67 +1,62 @@
-<h1 align="center">👨‍💻 Lucas | Desenvolvedor Python & Especialista em Automação</h1>
+<h1 align="center">🎯 Lucas | Automação Profissional com Python</h1>
 
 <p align="center">
-  <i>"Automatizando o impossível com código limpo, eficiente e resiliente."</i>
+  <i>"Transformando tarefas repetitivas em processos inteligentes e automáticos."</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Especialista-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Selenium-Automa%C3%A7%C3%A3o%20Web-green?style=for-the-badge&logo=selenium" />
   <img src="https://img.shields.io/badge/Linux-Power--User-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Django-Backend%20Web-0C4B33?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-Experiente-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Google%20Ad%20Manager-Ads-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/CustomTkinter-Interface-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Sobre Mim
+## 🚀 Projeto em Destaque: **Adsnap**
 
-Sou um programador com foco em **automação, dados e performance**, utilizando **Python como ferramenta principal**. Tenho experiência sólida em ambientes **Linux**, trabalhando com sistemas distribuídos, automações de navegador, scraping de dados, dashboards, APIs e serviços em nuvem.
+**Adsnap** é uma ferramenta de automação desenvolvida para realizar **checkings de prints diários** de campanhas publicitárias veiculadas no portal [metropoles.com](https://www.metropoles.com).
 
----
+> Como publisher de campanhas, sou responsável por garantir que os banners sejam entregues corretamente via **Google Ad Manager**. O Adsnap automatiza toda a rotina de Cheking. 
 
-## 🛠️ Tecnologias Avançadas que Domino
+### 🔧 Tecnologias utilizadas:
+- `Python` (núcleo do projeto)
+- `Selenium WebDriver` (navegação e controle do browser)
+- `PyAutoGUI` (interação com elementos fora do DOM)
+- `Pillow` (edição de imagem e prints)
+- `CustomTkinter` (interface gráfica)
+- `SQLite` (banco de dados local para armazenar publis e relatórios)
+- `JavaScript` (execução direta no DOM para manipulação precisa de elementos)
 
-| Categoria                | Ferramentas / Tecnologias                                               |
-|--------------------------|-------------------------------------------------------------------------|
-| **Linguagem Principal**  | `Python`, `Cython`                                                      |
-| **Automação Web**        | `Selenium`, `PyAutoGUI`, `Pillow`                                       |
-| **Frameworks Web**       | `Django`, `Jinja2`                                                      |
-| **Análise de Dados**     | `Pandas`                                                                |
-| **DevOps & Cloud**       | `Google Cloud Platform (GCP)`, `Bash`, `Shell Script`, `Linux`          |
-| **Integrações Google**   | `Google Analytics`, `Google Ad Manager (GAM)`                           |
-| **Outros Conhecimentos** | Criação de Dashboards, APIs REST, Otimização de Código com Cython       |
+### ⚙️ Funcionalidades principais:
+- Coleta automatizada de prints dos banners veiculados
+- Execução de disparos automaticos com agendamento
+- Interface intuitiva para cadastro e consulta de campanhas
+- Extração de estatísticas de visualização via integração com Google Ad Manager (Em desenvolvimento....)
+- Organização dos dados por cliente, PI, formato, data e hora
 
----
-
-## 🔁 Projetos de Destaque
-
-🔹 **Automação com Selenium + PyAutoGUI**  
-Automatizações web que interagem com páginas complexas, capturam dados, clicam em elementos fora do DOM com precisão e resiliência.
-
-🔹 **Dashboards com Django + Jinja2**  
-Aplicações web completas que reúnem estatísticas de campanhas, relatórios de desempenho e gerenciamento via interface amigável.
-
-🔹 **Google Ad Manager Automations**  
-Scripts Python integrados à API do GAM, para aplicar automaticamente blocos de anúncios com regras de viewability, orçamento e data.
-
-🔹 **Google Analytics Tracker**  
-Automação com Selenium que acessa e extrai dados de visualização para relatórios automáticos personalizados em `.txt` e `.xlsx`.
 
 ---
 
-## 🐧 Linux + Bash
+## 🛠️ Skills Técnicas 
 
-Sou um **usuário avançado de Linux**, desenvolvo e executo scripts Bash para automatizar tarefas do sistema, gerenciar jobs, lidar com logs e fazer deploy de projetos.
-
----
-
-## 🌐 Conecte-se
-
-- 📫 Email: [seu-email@email.com]
-- 💼 LinkedIn: [seu-linkedin]
-- 🧠 GitHub: [seu-github]
+| Área                     | Tecnologias/Métodos                                                   |
+|--------------------------|------------------------------------------------------------------------|
+| **Backend**              | Python, Cython, Django, Jinja2                                         |
+| **Automação Web**        | Selenium, PyAutoGUI, JavaScript Injection, Pillow                      |
+| **Dados & Relatórios**   | Pandas, SQLite3, Google Analytics                                      |
+| **Nuvem & Infraestrutura**| Google Cloud Platform, Google Ad Manager, Bash, Shell, Linux          |
+| **Interface Gráfica**    | CustomTkinter, Tkinte                                                  |
 
 ---
 
-<p align="center"><i>“Código limpo, funcionalidade precisa e automação onde importa.”</i></p>
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-mendon%C3%A7a-1296412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🧠 [GitHub](https://github.com/llucaspy)
+- 📫 Email: lm.mdpaim@gmail.com
+
+---
+
+<p align="center"><i>“Menos cliques, mais resultados.”</i></p>
