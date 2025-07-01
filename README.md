@@ -1,4 +1,4 @@
-<h1 align="center">🎯 Lucas | Automação Profissional com Python</h1>
+<h1 align="center">🎯 Lucas.py | Automação Profissional com Python</h1>
 
 <p align="center">
   <i>"Transformando tarefas repetitivas em processos inteligentes e automáticos."</i>
@@ -24,7 +24,7 @@
 - `Python` (núcleo do projeto)
 - `Selenium WebDriver` (navegação e controle do browser)
 - `PyAutoGUI` (interação com elementos fora do DOM)
-- `Pillow` (edição de imagem e prints)
+- `Pillow` (edição de imagem e screenshots)
 - `CustomTkinter` (interface gráfica)
 - `SQLite` (banco de dados local para armazenar publis e relatórios)
 - `JavaScript` (execução direta no DOM para manipulação precisa de elementos)
