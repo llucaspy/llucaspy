@@ -24,7 +24,7 @@
 ### 🎥 Demonstração da Interface
 
 <p align="center">
-  <img src="inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
+  <img src="assets/inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
 </p>
 
 ### 🔧 Tecnologias utilizadas:
