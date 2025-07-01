@@ -26,7 +26,7 @@
 - `PyAutoGUI` (interação com elementos fora do DOM)
 - `Pillow` (edição de imagem e screenshots)
 - `CustomTkinter` (interface gráfica)
-- `SQLite` (banco de dados local para armazenar publis e relatórios)
+- `SQLite` (banco de dados local para armazenar campanhas e relatórios)
 - `JavaScript` (execução direta no DOM para manipulação precisa de elementos)
 
 ### ⚙️ Funcionalidades principais:
