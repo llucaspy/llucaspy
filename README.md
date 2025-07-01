@@ -19,7 +19,7 @@
 
 **Adsnap** é uma ferramenta de automação desenvolvida para realizar **checkings de prints diários** de campanhas publicitárias veiculadas no portal [metropoles.com](https://www.metropoles.com).
 
-> Como publisher de campanhas, sou responsável por garantir que os banners sejam entregues corretamente via **Google Ad Manager**. O Adsnap automatiza toda a rotina de Cheking. 
+> Como publisher de campanhas, sou responsável por garantir que os banners sejam entregues corretamente via **Google Ad Manager**. O Adsnap automatiza toda a rotina de check-in. 
 
 ### 🎥 Demonstração da Interface
 
