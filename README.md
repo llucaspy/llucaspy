@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Selenium-Automa%C3%A7%C3%A3o%20Web-green?style=for-the-badge&logo=selenium" />
   <img src="https://img.shields.io/badge/Linux-Power--User-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Google%20Ad%20Manager-Ads-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-Medi%C3%A7%C3%A3o-orange?style=for-the-badge&logo=googleanalytics" />
   <img src="https://img.shields.io/badge/CustomTkinter-Interface-orange?style=for-the-badge" />
 </p>
 
