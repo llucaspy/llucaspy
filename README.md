@@ -21,6 +21,12 @@
 
 > Como publisher de campanhas, sou responsável por garantir que os banners sejam entregues corretamente via **Google Ad Manager**. O Adsnap automatiza toda a rotina de Cheking. 
 
+### 🎥 Demonstração da Interface
+
+<p align="center">
+  <img src="inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
+</p>
+
 ### 🔧 Tecnologias utilizadas:
 - `Python` (núcleo do projeto)
 - `Selenium WebDriver` (navegação e controle do browser)
@@ -36,7 +42,6 @@
 - Interface intuitiva para cadastro e consulta de campanhas
 - Extração de estatísticas de visualização via integração com Google Ad Manager (Em desenvolvimento....)
 - Organização dos dados por cliente, PI, formato, data e hora
-
 
 ---
 
