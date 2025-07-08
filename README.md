@@ -49,11 +49,11 @@
 
 | Área                     | Tecnologias/Métodos                                                   |
 |--------------------------|------------------------------------------------------------------------|
-| **Backend**              | Python, Cython, Django, Jinja2                                         |
+| **Backend**              | Python, Django, Jinja2                                                 |
 | **Automação Web**        | Selenium, PyAutoGUI, JavaScript Injection, Pillow                      |
 | **Dados & Relatórios**   | Pandas, SQLite3, Google Analytics                                      |
-| **Nuvem & Infraestrutura**| Google Cloud Platform, Google Ad Manager, Bash, Shell, Linux          |
-| **Interface Gráfica**    | CustomTkinter, Tkinte                                                  |
+| **Nuvem & Infraestrutura**| Google Cloud Platform, Google Ad Manager                              |
+| **Interface Gráfica**    | CustomTkinter, Tkinter                                                 |
 
 ---
 
