@@ -15,9 +15,9 @@
 
 ---
 
-## 🚀 Projeto em Destaque: **snk**
+## 🚀 Projeto em Destaque: **Adsnap**
 
-**snk** é um projeto desenvolvido para expandir minhas habilidades em automação e criação de ferramentas inteligentes com Python.  
+**Adsnap** é um projeto desenvolvido para expandir minhas habilidades em automação e criação de ferramentas inteligentes com Python.  
 Aqui você pode descrever o objetivo do projeto, por exemplo:
 
 - Uma ferramenta complementar ao Adsnap  
@@ -31,7 +31,7 @@ Aqui você pode descrever o objetivo do projeto, por exemplo:
 ### 🎥 Demonstração (se quiser adicionar)
 
 <p align="center">
-  <img src="Inter.gif" alt="Demonstração da Interface snk" width="700" />
+  <img src="Inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
 </p>
 
 *(Você pode trocar o GIF ou remover esta seção caso não use demo.)*
@@ -47,9 +47,9 @@ Aqui você pode descrever o objetivo do projeto, por exemplo:
 - Outras libs necessárias conforme o projeto evoluir
 
 ### ⚙️ Funcionalidades principais:
-- Funcionalidade 1 do snk
-- Funcionalidade 2 do snk
-- Funcionalidade 3 do snk
+- Funcionalidade 1 do Adsnap
+- Funcionalidade 2 do Adsnap
+- Funcionalidade 3 do Adsnap
 - (Aqui você completa conforme incluir recursos no projeto)
 
 ---
