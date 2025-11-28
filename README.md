@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;👩‍💻Im+Wilson+Fernandes....;Nice+to+meet+you!;&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=やあ+みんな。+👋;👩‍💻+私はウィルソンです......;初めまして！&center=true&size=25">
+</a>
+</h1>
+
+
 <h1 align="center">🎯 Lucas.py | Automação Profissional com Python</h1>
 
 <p align="center">
