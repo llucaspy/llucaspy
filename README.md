@@ -15,33 +15,42 @@
 
 ---
 
-## 🚀 Projeto em Destaque: **Adsnap**
+## 🚀 Projeto em Destaque: **snk**
 
-**Adsnap** é uma ferramenta de automação que desenvolvi de forma independente para otimizar minhas rotinas como publisher de campanhas no portal [metropoles.com](https://www.metropoles.com). Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
+**snk** é um projeto desenvolvido para expandir minhas habilidades em automação e criação de ferramentas inteligentes com Python.  
+Aqui você pode descrever o objetivo do projeto, por exemplo:
 
-> A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners veiculados por meio do **Google Ad Manager**. Todo o desenvolvimento foi conduzido de forma autônoma, com foco em produtividade e qualidade nos entregáveis da minha rotina profissional.
+- Uma ferramenta complementar ao Adsnap  
+- Uma automação independente  
+- Um módulo experimental  
+- Uma solução de produtividade  
+- Qualquer outra descrição que faça sentido  
 
-### 🎥 Demonstração da Interface
+> Este repositório representa mais um passo na evolução das minhas automações profissionais, explorando novas abordagens, interfaces, integrações e fluxos de trabalho otimizados.
+
+### 🎥 Demonstração (se quiser adicionar)
 
 <p align="center">
-  <img src="Inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
+  <img src="Inter.gif" alt="Demonstração da Interface snk" width="700" />
 </p>
+
+*(Você pode trocar o GIF ou remover esta seção caso não use demo.)*
 
 ### 🔧 Tecnologias utilizadas:
 - `Python` (núcleo do projeto)
-- `Selenium WebDriver` (navegação e controle do browser)
-- `PyAutoGUI` (interação com elementos fora do DOM)
-- `Pillow` (edição de imagem e screenshots)
-- `CustomTkinter` (interface gráfica)
-- `SQLite` (banco de dados local para armazenar campanhas e relatórios)
-- `JavaScript` (execução direta no DOM para manipulação precisa de elementos)
+- `Selenium WebDriver` (se aplicável)
+- `PyAutoGUI`
+- `Pillow`
+- `CustomTkinter`
+- `SQLite`
+- `JavaScript Injection`
+- Outras libs necessárias conforme o projeto evoluir
 
 ### ⚙️ Funcionalidades principais:
-- Coleta automatizada de prints dos banners veiculados
-- Execução de disparos automaticos com agendamento
-- Interface intuitiva para cadastro e consulta de campanhas
-- Extração de estatísticas de visualização via integração com Google Ad Manager (Em desenvolvimento....)
-- Organização dos dados por cliente, PI, formato, data e hora
+- Funcionalidade 1 do snk
+- Funcionalidade 2 do snk
+- Funcionalidade 3 do snk
+- (Aqui você completa conforme incluir recursos no projeto)
 
 ---
 
