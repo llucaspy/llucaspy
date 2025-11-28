@@ -66,7 +66,7 @@ Aqui você pode descrever o objetivo do projeto, por exemplo:
 
 ---
 
-## 🐍 GitHub Activity Snake
+## 🐍 
 
 <div align=center>
 
