@@ -66,6 +66,11 @@ Aqui você pode descrever o objetivo do projeto, por exemplo:
 
 ---
 
+## 🐍 GitHub Activity Snake
+
+![snake gif](./dist/github-contribution-grid-snake.svg)
+
+---
 ## 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-mendon%C3%A7a-1296412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
