@@ -17,68 +17,68 @@
 
 ## 🚀 Projeto em Destaque: **Adsnap**
 
-**Adsnap** é um projeto desenvolvido para expandir minhas habilidades em automação e criação de ferramentas inteligentes com Python.  
-Aqui você pode descrever o objetivo do projeto, por exemplo:
+**Adsnap** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas no portal [metropoles.com](https://www.metropoles.com).  
+Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
 
-- Uma ferramenta complementar ao Adsnap  
-- Uma automação independente  
-- Um módulo experimental  
-- Uma solução de produtividade  
-- Qualquer outra descrição que faça sentido  
+> A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners veiculados pelo **Google Ad Manager**.  
+> Todo o desenvolvimento foi conduzido com foco em produtividade e qualidade nos entregáveis da rotina profissional.
 
-> Este repositório representa mais um passo na evolução das minhas automações profissionais, explorando novas abordagens, interfaces, integrações e fluxos de trabalho otimizados.
-
-### 🎥 Demonstração (se quiser adicionar)
+### 🎥 Demonstração da Interface
 
 <p align="center">
   <img src="Inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
 </p>
 
-*(Você pode trocar o GIF ou remover esta seção caso não use demo.)*
+---
 
-### 🔧 Tecnologias utilizadas:
-- `Python` (núcleo do projeto)
-- `Selenium WebDriver` (se aplicável)
-- `PyAutoGUI`
-- `Pillow`
-- `CustomTkinter`
-- `SQLite`
-- `JavaScript Injection`
-- Outras libs necessárias conforme o projeto evoluir
+### 🔧 Tecnologias utilizadas
 
-### ⚙️ Funcionalidades principais:
-- Funcionalidade 1 do Adsnap
-- Funcionalidade 2 do Adsnap
-- Funcionalidade 3 do Adsnap
-- (Aqui você completa conforme incluir recursos no projeto)
+- Python (núcleo do projeto)  
+- Selenium WebDriver (navegação e controle do browser)  
+- PyAutoGUI (interação com elementos fora do DOM)  
+- Pillow (edição de imagem e screenshots)  
+- CustomTkinter (interface gráfica)  
+- SQLite (banco de dados local)  
+- JavaScript (injeção direta no DOM)
 
 ---
 
-## 🛠️ Skills Técnicas 
+### ⚙️ Funcionalidades principais
 
-| Área                     | Tecnologias/Métodos                                                   |
-|--------------------------|------------------------------------------------------------------------|
-| **Backend**              | Python, Django, Jinja2                                                 |
-| **Automação Web**        | Selenium, PyAutoGUI, JavaScript Injection, Pillow                      |
-| **Dados & Relatórios**   | Pandas, SQLite3, Google Analytics                                      |
-| **Nuvem & Infraestrutura**| Google Cloud Platform, Google Ad Manager                              |
-| **Interface Gráfica**    | CustomTkinter, Tkinter                                                 |
+- Coleta automatizada de prints dos banners veiculados  
+- Execução de disparos automáticos com agendamento  
+- Interface intuitiva para cadastro e consulta de campanhas  
+- Extração de estatísticas via Google Ad Manager *(em desenvolvimento)*  
+- Organização de dados por cliente, PI, formato, data e hora  
 
 ---
 
-## 🐍 
 
 <div align=center>
 
   <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
   
 </div>
+
+
+
+## 🛠️ Skills Técnicas
+
+| Área                     | Tecnologias/Métodos                                               |
+|-------------------------|-------------------------------------------------------------------|
+| **Backend**             | Python, Django, Jinja2                                            |
+| **Automação Web**       | Selenium, PyAutoGUI, JavaScript Injection, Pillow                 |
+| **Dados & Relatórios**  | Pandas, SQLite3, Google Analytics                                 |
+| **Nuvem & Infraestrutura** | Google Cloud Platform, Google Ad Manager                      |
+| **Interface Gráfica**   | CustomTkinter, Tkinter                                            |
+
 ---
+
 ## 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-mendon%C3%A7a-1296412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🧠 [GitHub](https://github.com/llucaspy)
-- 📫 Email: lm.mdpaim@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-mendonça-1296412b8  
+- 🧠 **GitHub:** https://github.com/llucaspy  
+- 📫 **Email:** lm.mdpaim@gmail.com  
 
 ---
 
