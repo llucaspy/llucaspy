@@ -54,14 +54,6 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 ---
 
 
-<div align=center>
-
-  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
-  
-</div>
-
-
-
 ## 🛠️ Skills Técnicas
 
 | Área                     | Tecnologias/Métodos                                               |
@@ -73,6 +65,15 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 | **Interface Gráfica**   | CustomTkinter, Tkinter                                            |
 
 ---
+
+
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
+  
+</div>
+
+
 
 ## 📬 Contato
 
