@@ -68,7 +68,7 @@ Aqui você pode descrever o objetivo do projeto, por exemplo:
 
 ## 🐍 GitHub Activity Snake
 
-![snake gif](./dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/llucaspy/llucaspy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 📬 Contato
