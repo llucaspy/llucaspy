@@ -29,7 +29,7 @@
 
 ## 🚀 Projeto em Destaque: **Adsnap**
 
-**Adsnap** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas no portal [metropoles.com](https://www.metropoles.com).  
+**Adsnap** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas web.  
 Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
 
 > A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners veiculados pelo **Google Ad Manager**.  
