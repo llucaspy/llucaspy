@@ -89,6 +89,7 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-mendonça-1296412b8
 - 📫 **Email:** lm.mdpaim@gmail.com
+- 📷 **Instagram** https://www.instagram.com/llucas.py
 
 ---
 
