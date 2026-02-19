@@ -87,9 +87,8 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 
 ## 📬 Contato
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-mendonça-1296412b8  
-- 🧠 **GitHub:** https://github.com/llucaspy  
-- 📫 **Email:** lm.mdpaim@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-mendonça-1296412b8
+- 📫 **Email:** lm.mdpaim@gmail.com
 
 ---
 
