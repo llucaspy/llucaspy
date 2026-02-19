@@ -10,7 +10,7 @@
 </h1>
 
 
-<h1 align="center">🎯 Lucas.py | Automação Profissional com Python</h1>
+<h1 align="center"> Lucas.py | Automação Profissional</h1>
 
 <p align="center">
   <i>"Transformando tarefas repetitivas em processos inteligentes e automáticos."</i>
@@ -29,11 +29,11 @@
 
 ## 🚀 Projeto em Destaque: **Adsnap V2 PRO**
 
-**Adsnap V2 PRO** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas web.  
+**Adsnap V2 PRO** é uma ferramenta de automação desenvolvida de forma independente para otimizar minhas rotinas como publisher de campanhas web.  
 Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
 
-> A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners implementados pelo **Google Ad Manager**.  
-> Todo o desenvolvimento foi conduzido com foco em produtividade e qualidade nos entregáveis da rotina profissional.
+> A ferramenta foi desenvolvida por iniciativa própria como um projeto independente, com o objetivo de automatizar a coleta de screenshots de banners veiculados e implementados por mim no Google Ad Manager.
+> Todo o desenvolvimento — concepção, arquitetura, implementação e testes — foi realizado exclusivamente por mim, sem participação, direcionamento ou recursos de outrem.
 
 ### 🎥 Demonstração da Interface
 
