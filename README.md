@@ -17,22 +17,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Especialista-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Selenium-Automa%C3%A7%C3%A3o%20Web-green?style=for-the-badge&logo=selenium" />
-  <img src="https://img.shields.io/badge/Linux-Power--User-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Google%20Ad%20Manager-Ads-blue?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-Medi%C3%A7%C3%A3o-orange?style=for-the-badge&logo=googleanalytics" />
-  <img src="https://img.shields.io/badge/CustomTkinter-Interface-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-Interface-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Tipagem-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-Automa%C3%A7%C3%A3o-40B5A4?style=for-the-badge&logo=puppeteer" />
+  <img src="https://img.shields.io/badge/Google%20Ad%20Manager-Ads-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-Database-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projeto em Destaque: **Adsnap**
+## 🚀 Projeto em Destaque: **Adsnap V2 PRO**
 
-**Adsnap** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas web.  
+**Adsnap V2 PRO** é uma ferramenta de automação desenvolvida de forma independente para otimizar rotinas como publisher de campanhas web.  
 Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
 
-> A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners veiculados pelo **Google Ad Manager**.  
+> A ferramenta foi criada como uma solução pessoal para agilizar e padronizar processos internos de verificação, como a coleta automática de screenshots de banners implementados pelo **Google Ad Manager**.  
 > Todo o desenvolvimento foi conduzido com foco em produtividade e qualidade nos entregáveis da rotina profissional.
 
 ### 🎥 Demonstração da Interface
@@ -43,39 +43,37 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 
 ---
 
-### 🔧 Tecnologias utilizadas
+### 🔧 Tecnologias Utilizadas
 
-- Python (núcleo do projeto)  
-- Selenium WebDriver (navegação e controle do browser)  
-- PyAutoGUI (interação com elementos fora do DOM)  
-- Pillow (edição de imagem e screenshots)  
-- CustomTkinter (interface gráfica)  
-- SQLite (banco de dados local)  
-- JavaScript (injeção direta no DOM)
-
----
-
-### ⚙️ Funcionalidades principais
-
-- Coleta automatizada de prints dos banners veiculados  
-- Execução de disparos automáticos com agendamento  
-- Interface intuitiva para cadastro e consulta de campanhas  
-- Extração de estatísticas via Google Ad Manager *(em desenvolvimento)*  
-- Organização de dados por cliente, PI, formato, data e hora  
+- **Next.js 15** (App Router + Turbopack)
+- **React 19** (Interface reativa e componentizada)
+- **TypeScript** (Tipagem estática em todo o projeto)
+- **Prisma ORM** (Modelagem e acesso ao banco de dados)
+- **SQLite** (Banco de dados local, leve e portátil)
+- **Puppeteer** (Navegação headless e captura de screenshots)
+- **Tailwind CSS** (Estilização utilitária e responsiva)
 
 ---
 
+### ⚙️ Funcionalidades Principais
 
-## 🛠️ Skills Técnicas
+- Coleta automatizada de prints dos banners veiculados
+- Execução de disparos automáticos com agendamento por horário
+- Sistema de Books para download de evidências em ZIP
+- Monitoramento em tempo real do status das campanhas
+- Assistente Nexus para controle por comandos de chat
 
-| Área                     | Tecnologias/Métodos                                               |
-|-------------------------|-------------------------------------------------------------------|
-| **Backend**             | Python, Django, Jinja2                                            |
-| **Automação Web**       | Selenium, PyAutoGUI, JavaScript Injection, Pillow                 |
-| **Dados & Relatórios**  | Pandas, SQLite3, Google Analytics                                 |
-| **Nuvem & Infraestrutura** | Google Cloud Platform, Google Ad Manager                      |
-| **Interface Gráfica**   | CustomTkinter, Tkinter                                            |
+---
 
+### 🛠️ Skills Técnicas
+
+| Área                        | Tecnologias/Métodos                                        |
+|-----------------------------|-------------------------------------------------------------|
+| **Frontend**                | Next.js, React, TypeScript, Tailwind CSS                    |
+| **Backend**                 | Next.js API Routes, Server Actions, Prisma                  |
+| **Automação Web**           | Puppeteer, JavaScript Injection                             |
+| **Dados & Armazenamento**   | SQLite, Prisma ORM, date-fns                                |
+| **Interface & UX**          | Glassmorphism, Lucide Icons, Micro-animações                |
 ---
 
 
