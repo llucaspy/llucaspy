@@ -38,7 +38,7 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 ### 🎥 Demonstração da Interface
 
 <p align="center">
-  <img src="Inter.gif" alt="Demonstração da Interface Adsnap" width="700" />
+  <img src="Interf.gif" alt="Demonstração da Interface Adsnap" width="700" />
 </p>
 
 ---
