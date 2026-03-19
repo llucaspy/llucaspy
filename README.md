@@ -84,7 +84,7 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 </div>
 
 
-## Acesso ao site : https://www.instagram.com/llucas.py](https://adsnap-cloud.vercel.app
+## Acesso ao Adsnap: https://adsnap-cloud.vercel.app
 
 
 ## 📬 Contato
