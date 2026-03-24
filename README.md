@@ -29,8 +29,15 @@
 
 ## 🚀 Projeto em Destaque: **Adsnap V2 PRO**
 
-**Adsnap V2 PRO** é uma ferramenta de automação desenvolvida de forma independente para otimizar minhas rotinas como publisher de campanhas web.  
-Seu principal objetivo é realizar **checkings de prints diários** de campanhas publicitárias de forma automatizada.
+**Adsnap V2 PRO** é uma ferramenta de automação desenvolvida de forma independente para otimizar minhas rotinas como publisher de campanhas web.
+
+Seu principal objetivo é realizar checkings de prints diários de campanhas publicitárias de forma automatizada. Para garantir o controle total dessa operação, o sistema conta com:
+
+🔹 Dashboard AdOps: Uma interface centralizada para o monitoramento em tempo real de cada PI e formato, permitindo acompanhar o status da entrega e a integridade das capturas de forma visual e intuitiva.
+
+🔹 Nexus AI: Um assistente integrado que utiliza inteligência artificial para facilitar o controle da ferramenta e fornecer diagnósticos rápidos da operação através de comandos simples por chat.
+
+Essa versão ficou bem direta e destaca exatamente o que torna a sua ferramenta profissional e avançada!
 
 > A ferramenta foi desenvolvida por iniciativa própria como um projeto independente, com o objetivo de automatizar a coleta de screenshots de banners veiculados e implementados por mim no Google Ad Manager.
 > Todo o desenvolvimento — concepção, arquitetura, implementação e testes — foi realizado exclusivamente por mim, sem participação, direcionamento ou recursos de outrem.
@@ -38,7 +45,7 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 ### 🎥 Demonstração da Interface
 
 <p align="center">
-  <img src="Interf.gif" alt="Demonstração da Interface Adsnap" width="700" />
+  <img src="v2.gif" alt="Demonstração da Interface Adsnap" width="700" />
 </p>
 
 ---
@@ -57,23 +64,12 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
 
 ### ⚙️ Funcionalidades Principais
 
-- Coleta automatizada de prints dos banners veiculados
-- Execução de disparos automáticos com agendamento por horário
-- Sistema de Books para download de evidências em ZIP
-- Monitoramento em tempo real do status das campanhas
-- Assistente Nexus para controle por comandos de chat
+- 🧩 Nexus AI Assistant: Controle total da operação via comandos em linguagem natural através de um chat inteligente.
+- 📸 Captura Inteligente (Puppeteer): Coleta automatizada de screenshots reais dos banners veiculados, garantindo evidências visuais incontestáveis.
+- ⏰ Agendamentos de Disparo: Execução de disparos automáticos com cronogramas precisos por horário.
+-  📦 Sistema de Books: Geração e download de pacotes ZIP com todas as evidências organizadas de forma automática.
+-  📈 Monitoramento AdOps Live: Dashboard em tempo real para acompanhar o status e a saúde de cada PI e formato.
 
----
-
-### 🛠️ Skills Técnicas
-
-| Área                        | Tecnologias/Métodos                                        |
-|-----------------------------|-------------------------------------------------------------|
-| **Frontend**                | Next.js, React, TypeScript, Tailwind CSS                    |
-| **Backend**                 | Next.js API Routes, Server Actions, Prisma                  |
-| **Automação Web**           | Puppeteer, JavaScript Injection                             |
-| **Dados & Armazenamento**   | SQLite, Prisma ORM, date-fns                                |
-| **Interface & UX**          | Glassmorphism, Lucide Icons, Micro-animações                |
 ---
 
 
@@ -83,8 +79,6 @@ Seu principal objetivo é realizar **checkings de prints diários** de campanhas
   
 </div>
 
-
-## Acesso ao Adsnap: https://adsnap-cloud.vercel.app
 
 
 ## 📬 Contato
