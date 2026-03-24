@@ -64,11 +64,11 @@ Seu principal objetivo é realizar checkings de prints diários de campanhas pub
 
 ### ⚙️ Funcionalidades Principais
 
-- 🧩 Nexus AI Assistant: Controle total da operação via comandos em linguagem natural através de um chat inteligente.
-- 📸 Captura Inteligente (Puppeteer): Coleta automatizada de screenshots reais dos banners veiculados, garantindo evidências visuais incontestáveis.
+- 🧩 Nexus AI: Controle total da operação via comandos em linguagem natural através de um chat inteligente.
+- 📸 Captura Inteligente: Coleta automatizada de screenshots reais dos banners veiculados, garantindo evidências visuais incontestáveis.
 - ⏰ Agendamentos de Disparo: Execução de disparos automáticos com cronogramas precisos por horário.
 -  📦 Sistema de Books: Geração e download de pacotes ZIP com todas as evidências organizadas de forma automática.
--  📈 Monitoramento AdOps Live: Dashboard em tempo real para acompanhar o status e a saúde de cada PI e formato.
+-  📈 Monitoramento AdOps Live: Dashboard em tempo real para acompanhar o status e a saúde de cada PI.
 
 ---
 
