@@ -37,7 +37,7 @@ Seu principal objetivo é realizar checkings de prints diários de campanhas pub
 
 🔹 Nexus AI: Um assistente integrado que utiliza inteligência artificial para facilitar o controle da ferramenta e fornecer diagnósticos rápidos da operação através de comandos simples por chat.
 
-Essa versão ficou bem direta e destaca exatamente o que torna a sua ferramenta profissional e avançada!
+
 
 > A ferramenta foi desenvolvida por iniciativa própria como um projeto independente, com o objetivo de automatizar a coleta de screenshots de banners veiculados e implementados por mim no Google Ad Manager.
 > Todo o desenvolvimento — concepção, arquitetura, implementação e testes — foi realizado exclusivamente por mim, sem participação, direcionamento ou recursos de outrem.
