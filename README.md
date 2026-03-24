@@ -64,11 +64,12 @@ Seu principal objetivo é realizar checkings de prints diários de campanhas pub
 
 ### ⚙️ Funcionalidades Principais
 
-- 🧩 Nexus AI: Controle total da operação via comandos em linguagem natural através de um chat inteligente.
+- 🧩 Nexus AI: Controle total da operação via comandos em linguagem natural através de um chat inteligente. Assistente BI realizando acompanhamento autonomo das campanhas, sugestões de ajustes nas metricas e auxilios nas metas do starting ao ending das campanhas (em aprimoramentos).
 - 📸 Captura Inteligente: Coleta automatizada de screenshots reais dos banners veiculados, garantindo evidências visuais incontestáveis.
 - ⏰ Agendamentos de Disparo: Execução de disparos automáticos com cronogramas precisos por horário.
 -  📦 Sistema de Books: Geração e download de pacotes ZIP com todas as evidências organizadas de forma automática.
 -  📈 Monitoramento AdOps Live: Dashboard em tempo real para acompanhar o status e a saúde de cada PI.
+-  ⚠️ Notificações via bot telegram, pop ups referentes a estados da campanha que precise de atenção.
 
 ---
 
