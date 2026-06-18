@@ -10,7 +10,7 @@
 </h1>
 
 
-<h1 align="center"> Lucas.py | Automação Profissional</h1>
+<h1 align="center"> Lucas.py </h1>
 
 <p align="center">
   <i>"Transformando tarefas repetitivas em processos inteligentes e automáticos."</i>
